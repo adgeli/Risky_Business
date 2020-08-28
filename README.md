@@ -45,3 +45,15 @@ Ensemble learners explored in this notebook:
 - AdaBoost
 
 ---
+
+## Installation Requirements
+
+To successfully view parts 1 and 2 of the assignment deliverables; [Resampling Techniques Notebook]() and [Ensemble Learners Notebook](), the following installations are required: 
+
+```
+pip install pandas
+pip install numpy
+```
+
+---
+
