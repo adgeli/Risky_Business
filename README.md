@@ -57,3 +57,11 @@ pip install numpy
 
 ---
 
+## File Contents
+
+- [Resampling Techniques Notebook]()
+- [Ensemble Learners Notebook](Emsemble_Learners_Credit_Risk_NB.ipynb)
+- [Summary of Findings](Summary_of_Findings.md)
+- [Unit 11 Instructions](Unit_11_Instructions.md)
+
+--- 
