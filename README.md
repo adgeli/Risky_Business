@@ -13,3 +13,35 @@
 - [File Contents](#File-Contents)
 
 ---
+
+## Project Objectives
+
+The following report uses a combination of training and evaluation models with imbalanced classes in an attempt to predict credit risk. 
+
+### Part 1: Resampling Techniques
+
+![resampling](Images/resampling_RS.png)
+
+Utilizing the Imbalanced-learn and Scikit-learn libaries, various resampling techniques are employed to evaluate imbalanced class data from the Lending Club. 
+
+Resampling techniques explored in this notebook: 
+
+- Simple Logisitc Regression
+- Oversampling: Naive Random Oversampling & SMOTE
+- Undersampling: Cluster Centroids
+- Combination Sampling: SMOTEENN
+
+### Part 2: Ensemble Learners
+
+![ensemble](Images/ensemble_BAS.png)
+
+In this section of the assignmnet, ensemble classifiers are used to predict loan risk and to further evaluate each model. 
+
+Ensemble learners explored in this notebook:
+
+- Oversampling: Naive Random Oversampling
+- Balanced Random Forest Classifier
+- Easy Ensemble Classifier
+- AdaBoost
+
+---
