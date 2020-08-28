@@ -15,6 +15,8 @@
 
 ## Resampling Techniques
 
+View the complete analysis: [Resampling Techniques Notebook](Resampling_Techniques.ipynb)
+
 ### Balanced Accuracy Score
 
 ![resampling_bas](Images/resampling_BAS.png)
@@ -36,6 +38,8 @@ The best geometric mean score are the oversmapling models; Naive Random Oversamp
 ---
 
 ## Ensemble Learners
+
+View the complete analysis: [Ensemble Learners Notebook](Emsemble_Learners_Credit_Risk_NB.ipynb)
 
 ### Balanced Accuracy Score
 
