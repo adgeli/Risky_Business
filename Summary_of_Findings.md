@@ -15,7 +15,7 @@
 
 ## Resampling Techniques
 
-View the complete analysis: [Resampling Techniques Notebook](Resampling_Techniques.ipynb)
+View the complete analysis: [Resampling Techniques Notebook](Resampling_Notebook.ipynb)
 
 ### Balanced Accuracy Score
 
