@@ -48,7 +48,7 @@ Ensemble learners explored in this notebook:
 
 ## Installation Requirements
 
-To successfully view parts 1 and 2 of the assignment deliverables; [Resampling Techniques Notebook]() and [Ensemble Learners Notebook](Emsemble_Learners_Credit_Risk_NB.ipynb), the following installations are required: 
+To successfully view parts 1 and 2 of the assignment deliverables; [Resampling Techniques Notebook](Resampling_Techniques.ipynb) & [Ensemble Learners Notebook](Emsemble_Learners_Credit_Risk_NB.ipynb), the following installations are required: 
 
 ```
 pip install pandas
@@ -59,7 +59,7 @@ pip install numpy
 
 ## File Contents
 
-- [Resampling Techniques Notebook]()
+- [Resampling Techniques Notebook](Resampling_Techniques.ipynb)
 - [Ensemble Learners Notebook](Emsemble_Learners_Credit_Risk_NB.ipynb)
 - [Summary of Findings](Summary_of_Findings.md)
 - [Unit 11 Instructions](Unit_11_Instructions.md)
